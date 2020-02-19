@@ -1,7 +1,5 @@
-# Chartbusters-Prediction-Foretell-the-Popularity-of-Songs
-Conducted by Machine Hack
-
-# Leaderboard Rank: 21
+# Chartbusters-Prediction-Foretell-the-Popularity-of-Song-Conducted-by-Machine Hack
+Leaderboard Rank: 21
 
 Problem Statement
 One of our customers strongly believes in technology and has recently backed up its platform using Machine Learning and Artificial Intelligence. Based on data collected from multiple sources on different songs and various artist attributes our customer is excited to challenge the MachineHack community.
